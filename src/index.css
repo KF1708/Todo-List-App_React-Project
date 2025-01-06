@@ -12,4 +12,6 @@
   background-image: url("../public/images/bg2.png");
   background-repeat: no-repeat;
   height: 200px;
+  /* width: 100%; */
+  /* object-fit: contain; */
 }

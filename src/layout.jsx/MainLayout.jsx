@@ -2,8 +2,8 @@ import { Link, Outlet } from "react-router-dom";
 
 const MainLayout = () => {
   return (
-    <div className="">
-      <div className="main-layout text-center pt-5 pb-28 pl-28 m-3 rounded-md">
+    <div className=" p-3">
+      <div className="main-layout text-center pt-5 pb-28 pl-28 bg-cover rounded-md">
         <h1 className="text-white text-5xl font-bold font-serif mb-5">
           TODO APP
         </h1>
